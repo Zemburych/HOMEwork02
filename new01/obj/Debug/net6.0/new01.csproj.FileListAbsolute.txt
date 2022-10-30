@@ -1,0 +1,15 @@
+C:\Users\Иван\OneDrive\Desktop\new\new01\bin\Debug\net6.0\new01.exe
+C:\Users\Иван\OneDrive\Desktop\new\new01\bin\Debug\net6.0\new01.deps.json
+C:\Users\Иван\OneDrive\Desktop\new\new01\bin\Debug\net6.0\new01.runtimeconfig.json
+C:\Users\Иван\OneDrive\Desktop\new\new01\bin\Debug\net6.0\new01.dll
+C:\Users\Иван\OneDrive\Desktop\new\new01\bin\Debug\net6.0\new01.pdb
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.csproj.AssemblyReference.cache
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.AssemblyInfoInputs.cache
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.AssemblyInfo.cs
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.dll
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\refint\new01.dll
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.pdb
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\new01.genruntimeconfig.cache
+C:\Users\Иван\OneDrive\Desktop\new\new01\obj\Debug\net6.0\ref\new01.dll
