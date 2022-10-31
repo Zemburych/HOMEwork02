@@ -1,10 +1,10 @@
 ﻿// Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 Console.Clear();
-Console.WriteLine("Введите трехзначное число по одной цифре\n");
 
 int[] array = new int[3];
+Random rand = new Random();
 for (int i = 0; i < array.Length; i++)
-   array[i] = int.Parse(Console.ReadLine());
+   array[i] = rand.Next(0,9);
 //Вывод массива 
             Console.WriteLine();
             Console.Write("Исходное число ");
