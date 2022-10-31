@@ -2,6 +2,7 @@
 Console.Clear();
 
 int[] array = new int[3];
+// Рандомный ввод массива
 Random rand = new Random();
 for (int i = 0; i < array.Length; i++)
    array[i] = rand.Next(0,9);
